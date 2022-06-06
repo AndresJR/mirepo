@@ -3,3 +3,7 @@
 function(){
 	print("Hola mundo")
 }
+
+function(){
+	print("adios")
+}
