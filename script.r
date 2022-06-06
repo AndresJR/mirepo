@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 function(){
-	print("Hola mundo")
+	print("Hola y adios")
 }
 
 function(){
