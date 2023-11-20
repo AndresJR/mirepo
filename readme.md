@@ -1,2 +1,2 @@
-Mi primer repositorio
-ch
+Introducción a Git y GitHub.
+Victoria Formoso Freire
