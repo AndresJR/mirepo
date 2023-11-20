@@ -1,9 +1,13 @@
-#!/usr/bin/env Rscript
+#Funciones
 
 function(){
-	print("Hola y adios")
+	print("Hola!")
 }
 
 function(){
-	print("adios")
+	print("Que tal?")
+}
+
+function(){
+	print("Adios")
 }
